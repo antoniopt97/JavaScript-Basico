@@ -1,0 +1,11 @@
+const name: 'Antonio'
+const edad: 24
+const developer: false
+const date: September 30 1997
+const libro: ['game of thrones', 'George R. R. Martin', 1999, 'https://www.amazon.es/Juego-tronos-vol%C3%BAmenes-Gigamesh-Bolsillo/dp/8496208915']
+
+console.log(name)
+console.log(edad)
+console.log(developer)
+console.fecha(date)
+console.log(libro)
